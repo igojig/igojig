@@ -13,7 +13,25 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java_Core-lightblue?style=for-the-badge" height="30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-lightblue?style=for-the-badge" height="30">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Security-lightblue?style=for-the-badge" height="30">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Data-lightblue?style=for-the-badge" height="30">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Hibernate-lightblue?style=for-the-badge" height="30">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Jdbc-lightblue?style=for-the-badge" height="30">
+   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge" height="30">
+       <img alt="Static Badge" src="https://img.shields.io/badge/REST_API-lightblue?style=for-the-badge" height="30">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Git-lightblue?style=for-the-badge" height="30">
+         <img alt="Static Badge" src="https://img.shields.io/badge/Maven-lightblue?style=for-the-badge" height="30">
+          <img alt="Static Badge" src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge" height="30">
+           <img alt="Static Badge" src="https://img.shields.io/badge/Netty-lightblue?style=for-the-badge" height="30">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Java_FX-lightblue?style=for-the-badge" height="30">
+             <img alt="Static Badge" src="https://img.shields.io/badge/Redis-lightblue?style=for-the-badge" height="30">
+              <img alt="Static Badge" src="https://img.shields.io/badge/FlyWay-lightblue?style=for-the-badge" height="30">
+       
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
@@ -26,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
