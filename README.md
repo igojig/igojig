@@ -20,7 +20,7 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-lightblue?style=for-the-badge" height="30">
     <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-lightblue?style=for-the-badge" height="30">
     <img alt="Spring Data" src="https://img.shields.io/badge/Spring_Data-lightblue?style=for-the-badge" height="30">
-  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-lightblue?style=for-the-badge" height="30">
+  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_Web-lightblue?style=for-the-badge" height="30">
     <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-lightblue?style=for-the-badge" height="30">
     <img alt="Jdbc" src="https://img.shields.io/badge/Jdbc-lightblue?style=for-the-badge" height="30">
     <img alt="REST API" src="https://img.shields.io/badge/REST_API-lightblue?style=for-the-badge" height="30">
