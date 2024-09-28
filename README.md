@@ -9,34 +9,32 @@
 <h2 align="center">Привет 👋!<br> Я Игорь, Java-разработчик</h2>
 
 <div align="center">
-  <h3>Технологии</h3>
+  <h3>Стек</h3>
 </div>
 
 <div align="center">
-    <img alt="Java" src="https://img.shields.io/badge/Java_Core-lightblue?style=for-the-badge" height="30">
-    <img alt="Java FX" src="https://img.shields.io/badge/Java_FX-lightblue?style=for-the-badge" height="30">
-   <img alt="SQL" src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge" height="30">
+    <img alt="Java" src="https://img.shields.io/badge/Java_Core-blue?style=flat" height="25">
+    <img alt="Java FX" src="https://img.shields.io/badge/Java_FX-blue?style=flat" height="25">
+   <img alt="SQL" src="https://img.shields.io/badge/SQL-blue?style=flat" height="25">
     <br>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-lightblue?style=for-the-badge" height="30">
-    <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-lightblue?style=for-the-badge" height="30">
-    <img alt="Spring Data" src="https://img.shields.io/badge/Spring_Data-lightblue?style=for-the-badge" height="30">
-  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_Web-lightblue?style=for-the-badge" height="30">
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-lightblue?style=for-the-badge" height="30">
-    <img alt="Jdbc" src="https://img.shields.io/badge/Jdbc-lightblue?style=for-the-badge" height="30">
-    <img alt="REST API" src="https://img.shields.io/badge/REST_API-lightblue?style=for-the-badge" height="30">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-blue?style=flat" height="25">
+    <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring_Cloud-blue?style=flat" height="25">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-blue?style=flat" height="25">
+    <img alt="Spring Data" src="https://img.shields.io/badge/Spring_Data-blue?style=flat" height="25">
+  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_Web-blue?style=flat" height="25">
+    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-blue?style=flat" height="25">
+    <img alt="Jdbc" src="https://img.shields.io/badge/Jdbc-blue?style=flat" height="25">
+    <img alt="REST API" src="https://img.shields.io/badge/REST_API-blue?style=flat" height="25">
   <br>
-   <img alt="Netty" src="https://img.shields.io/badge/Netty-lightblue?style=for-the-badge" height="30">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-lightblue?style=for-the-badge" height="30">
-    <img alt="FlyWay" src="https://img.shields.io/badge/FlyWay-lightblue?style=for-the-badge" height="30">
+   <img alt="Netty" src="https://img.shields.io/badge/Netty-blue?style=flat" height="25">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-blue?style=flat" height="25">
+    <img alt="FlyWay" src="https://img.shields.io/badge/FlyWay-blue?style=flat" height="25">
   <br>
-    <img alt="Git" src="https://img.shields.io/badge/Git-lightblue?style=for-the-badge" height="30">
-    <img alt="Maven" src="https://img.shields.io/badge/Maven-lightblue?style=for-the-badge" height="30">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge" height="30">
-     <img alt="Postman" src="https://img.shields.io/badge/Postman-lightblue?style=for-the-badge" height="30">
-   
-
-
-
+    <img alt="Git" src="https://img.shields.io/badge/Git-blue?style=flat" height="25">
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-blue?style=flat" height="25">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat" height="25">
+     <img alt="Postman" src="https://img.shields.io/badge/Postman-blue?style=flat" height="25">
+  
 [//]: # ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />)
 
 [//]: # (  <img width="12" />)
@@ -74,9 +72,7 @@
 </div>
 
 ###
-
-<br><br>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igojig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igojig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
