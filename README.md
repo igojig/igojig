@@ -26,7 +26,8 @@
     <img alt="Jdbc" src="https://img.shields.io/badge/Jdbc-blue?style=flat" height="25">
     <img alt="REST API" src="https://img.shields.io/badge/REST_API-blue?style=flat" height="25">
   <br>
-   <img alt="Netty" src="https://img.shields.io/badge/Netty-blue?style=flat" height="25">
+    <img alt="MapStruct" src="https://img.shields.io/badge/MapStruct-blue?style=flat" height="25">
+    <img alt="Netty" src="https://img.shields.io/badge/Netty-blue?style=flat" height="25">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-blue?style=flat" height="25">
     <img alt="FlyWay" src="https://img.shields.io/badge/FlyWay-blue?style=flat" height="25">
   <br>
