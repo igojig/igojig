@@ -21,11 +21,12 @@
     <img alt="Spring Cloud" src="https://img.shields.io/badge/Spring_Cloud-blue?style=flat" height="25">
     <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-blue?style=flat" height="25">
     <img alt="Spring Data" src="https://img.shields.io/badge/Spring_Data-blue?style=flat" height="25">
-  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_Web-blue?style=flat" height="25">
+  <img alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-blue?style=flat" height="25">
     <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-blue?style=flat" height="25">
     <img alt="Jdbc" src="https://img.shields.io/badge/Jdbc-blue?style=flat" height="25">
     <img alt="REST API" src="https://img.shields.io/badge/REST_API-blue?style=flat" height="25">
   <br>
+    <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-blue?style=flat" height="25">
     <img alt="MapStruct" src="https://img.shields.io/badge/MapStruct-blue?style=flat" height="25">
     <img alt="Netty" src="https://img.shields.io/badge/Netty-blue?style=flat" height="25">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-blue?style=flat" height="25">
